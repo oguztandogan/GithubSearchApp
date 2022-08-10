@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "—Pngtree—cat default avatar_5416936.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "—Pngtree—cat default avatar_5416936-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "—Pngtree—cat default avatar_5416936-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
