@@ -1,4 +1,4 @@
-# Sahibinden.com - iOS Code Challenge
+# Github App
 
 Github App is an application that uses the Github Search API & CoreData and is built with Swift. 
 It demos some Swift concepts. The goal is to make a real world application using Swift only.
